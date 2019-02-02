@@ -2,7 +2,7 @@
 #get the credentials from the user
 $creds = Get-Credential
 
-$resourceGroup = "CLIDemoPosh"az
+$resourceGroup = "CLIDemoPosh"
 $srvName = "myCLIDemoPosh"
 
 az group create --name $resourceGroup --location eastus
