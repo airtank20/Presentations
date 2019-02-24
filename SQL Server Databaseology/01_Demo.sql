@@ -1,6 +1,5 @@
 /*******************************************************************************
 Written By: John Morehouse
-Date: August 2013
 T: @SQLRUS
 E: john@jmorehouse.com
 B: http://sqlrus.com
@@ -42,7 +41,7 @@ GO
 -- Insert some data!!
 INSERT Sharknado
 SELECT 1, REPLICATE('a', 50), 'US' UNION
-SELECT 2, REPLICATE('b', 25), 'CA'
+SELECT 2, REPLICATE('b', 25), 'UK'
 GO
 
 
@@ -51,8 +50,6 @@ GO
 -- DBCC IND first!
 DBCC IND('Scratch', 'Sharknado', 1)
 GO
-
-
 
 -- DBCC PAGE second!  Don't forget TF 3604!!
 -- More on Trace Flags (TF): http://technet.microsoft.com/en-us/library/ms188396.aspx
@@ -64,23 +61,6 @@ GO
 DBCC TRACEOFF (3604)
 GO
 
-
--- Let's try the system function!
-SELECT sys.fn_PhysLocFormatter(%%physloc%%) as [Physical RID], * 
-FROM Sharknado
-GO
-
--- How about AdventureWorks
-SELECT top 100 sys.fn_PhysLocFormatter(%%physloc%%) as [Physical RID], * 
-FROM AdventureWorks2014.person.person
-GO
-
-DBCC TRACEON (3604)
-GO
-DBCC PAGE('AdventureWorks2014', 1, 1472, 3)
-GO
-DBCC TRACEOFF (3604)
-GO
 
 -- BONUS Question!!
 -- Now that we now how records & pages work, what happens with this?
@@ -119,9 +99,8 @@ DBCC ind('Scratch', 'CustomerAddress', 1)
 GO
 
 
-
--- BONUS BONUS
 -- Let's look at row-overflow storage
+/****** 
 USE Scratch
 GO
 IF OBJECT_id('Customer') IS NOT NULL
@@ -147,7 +126,7 @@ DBCC PAGE('Scratch', 1, 352, 3)
 GO
 DBCC TRACEOFF (3604)
 GO
-
+***************/
 
 --BONUS BONUS BONUS
 --Let's look at blob storage.  Let's put a file into the database!!
@@ -159,7 +138,7 @@ go
 
 INSERT FileStorageDemo (theFile)
 SELECT *
-FROM OPENROWSET(BULK 'C:\Users\john\Desktop\Capture.PNG', SINGLE_BLOB) AS x
+FROM OPENROWSET(BULK 'C:\Users\john\Documents\GitHub\Presentations\SQL Server Databaseology\Capture.png', SINGLE_BLOB) AS x
 
 SELECT * FROM FileStorageDemo
 
