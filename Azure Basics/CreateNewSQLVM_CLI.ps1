@@ -11,7 +11,7 @@ az group create --name $resourceGroup --location eastus
 az vm create `
     --resource-group $resourceGroup `
     --name $srvName `
-    --image MicrosoftSQLServer:SQL2017-WS2016:SQLDEV:latest `
+    --image MicrosoftSQLServer:SQL2019-WS2016:SQLDEV:latest `
     --admin-username $($creds.GetNetworkCredential().UserName) `
     --admin-password $($creds.GetNetworkCredential().Password) `
     --size Standard_A5 `
