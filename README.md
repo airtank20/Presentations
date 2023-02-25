@@ -1,7 +1,7 @@
 # Presentations
 Presentations
 # Presentations - 2023
-Date (m/d/y)| Event | Session | Recording | Files
+Date | Event | Session | Recording | Files
 --- | --- | --- | --- | ---
 02/15/23 | Redmond SQL User Group | [Accelerated Database Recovery - A Deep Dive Behind the Magic](https://www.meetup.com/redmond-sql-user-group-and-data-professionals-meetup/events/zxjlbtyfcdblb/) |  | 
 
