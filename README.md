@@ -3,7 +3,7 @@ Presentations
 # Presentations - 2023
 Date | Event | Session | Recording | Files
 --- | --- | --- | --- | ---
-03/17/23 | SQLBits | [Restoring Master Database - A Short Story](https://events.sqlbits.com/2023/agenda) | | [Download](https://github.com/airtank20/Presentations/tree/master/2023/SQLBits/Restoring%20Master%20Database-A%20Short%20Story)
+03/17/23 | SQLBits | [Restoring Master Database - A Short Story](https://events.sqlbits.com/2023/agenda) | | [Download](https://github.com/airtank20/Presentations/tree/master/2023/SQLBits/Restoring%20Master%20Database%20%E2%80%93%20A%20Short%20Story)
 03/17/23 | SQLBits | [Banishing Slow Queries with Intelligent Query Processing](https://events.sqlbits.com/2023/agenda) | | [Download](https://github.com/airtank20/Presentations/tree/master/2023/SQLBits/Banishing%20Slow%20Queries%20with%20Intelligent%20Query%20Processing)
 03/17/23 | SQLBits | [Tales from the Field - How to Avoid Burnout](https://events.sqlbits.com/2023/agenda) | | [Download](https://github.com/airtank20/Presentations/tree/master/2023/SQLBits/Tales%20from%20the%20Field%20-%20How%20to%20Avoid%20Burnout)
 03/17/23 | SQLBits | [Switching Careers: From PT to IT](https://events.sqlbits.com/2023/agenda) | | [Download](https://github.com/airtank20/Presentations/tree/master/2023/SQLBits)
