@@ -24,4 +24,8 @@ GO
 ALTER DATABASE current SET QUERY_STORE CLEAR;
 GO
 
+-- look at the data distribution
+SELECT SupplierID, COUNT(1) FROM Warehouse.StockItems
+GROUP BY SUPPLIERID 
+GO
 
