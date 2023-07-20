@@ -3,8 +3,8 @@ Presentations
 # Presentations - 2023
 Date | Event | Session | Recording | Files
 --- | --- | --- | --- | ---
-07/20/23 | Omaha SQL Server User Group | [Accelerated Database Recovery - A Deep Dive Behind the Magic](https://www.meetup.com/omaha-sql-user-group/events/294623858/) | [Download](https://github.com/airtank20/Presentations/tree/master/2023/Omaha%20SQL%20Server%20User%20Group)
-06/21/23 | Hampton Roads SQL Server User Group | [Top 5 Reasons to Move to SQL Server 2022](https://www.meetup.com/hampton-roads-sql-server-user-group/events/293323010/) | [Download](https://github.com/airtank20/Presentations/blob/master/2023/Hampton%20Roads%20SSUG/)
+07/20/23 | Omaha SQL Server User Group | [Accelerated Database Recovery - A Deep Dive Behind the Magic](https://www.meetup.com/omaha-sql-user-group/events/294623858/) | | [Download](https://github.com/airtank20/Presentations/tree/master/2023/Omaha%20SSUG)
+06/21/23 | Hampton Roads SQL Server User Group | [Top 5 Reasons to Move to SQL Server 2022](https://www.meetup.com/hampton-roads-sql-server-user-group/events/293323010/) | | [Download](https://github.com/airtank20/Presentations/blob/master/2023/Hampton%20Roads%20SSUG/)
 05/10/23 | SQLDay | [Banishing Slow Queries with Intelligent Query Processing](https://sqlday.pl/en/agenda-sqlday-2023/) | | [Download](https://github.com/airtank20/Presentations/tree/master/2023/SQLDay/)
 05/10/23 | Data Exposed - MVP Edition | [May the 4th Be With You](https://www.youtube.com/watch?v=hXeZ9Q580fs) | [YouTube](https://www.youtube.com/watch?v=hXeZ9Q580fs) | 
 04/27/23 | Lexington Data Technology Group | [Top 5 Reasons to Move to SQL Server 2022](https://www.meetup.com/lexington-data-technology-group/events/293025425/) | | [Download](https://github.com/airtank20/Presentations/blob/master/2023/Lexington%20Data%20Technology%20Group/)
