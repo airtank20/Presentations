@@ -3,6 +3,7 @@ Presentations
 # Presentations - 2023
 Date | Event | Session | Recording | Files
 --- | --- | --- | --- | ---
+11/6/23 | PASS Data Summit | [Accelerated Database Recovery - A Deep Dive Behind the Magic](https://passdatacommunitysummit.com/sessions/1655/) | | [Download](https://github.com/airtank20/Presentations/tree/master/2023/PASS%20Data%20Summit)
 10/10/23 | DataMinds Connect | [Accelerated Database Recovery - A Deep Dive Behind the Magic](https://datamindsconnect.be/agenda/) | | [Download](https://github.com/airtank20/Presentations/tree/master/2023/DataMinds)
 07/20/23 | Omaha SQL Server User Group | [Accelerated Database Recovery - A Deep Dive Behind the Magic](https://www.meetup.com/omaha-sql-user-group/events/294623858/) | | [Download](https://github.com/airtank20/Presentations/tree/master/2023/Omaha%20SSUG)
 06/21/23 | Hampton Roads SQL Server User Group | [Top 5 Reasons to Move to SQL Server 2022](https://www.meetup.com/hampton-roads-sql-server-user-group/events/293323010/) | | [Download](https://github.com/airtank20/Presentations/blob/master/2023/Hampton%20Roads%20SSUG/)
