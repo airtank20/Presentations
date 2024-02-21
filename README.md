@@ -4,7 +4,7 @@ Presentations
 # Presentations - 2024
 Date | Event | Session | Recording | Files
 --- | --- | --- | --- | ---
-02/21/25 | Hampton Roads SQL Server User Group | [Exploring Optimized Locking](https://www.meetup.com/hampton-roads-sql-server-user-group/events/299153121/) | | [Download](https://github.com/airtank20/Presentations/blob/master/2024/Hampton%20Roads%20SSUG/)
+02/21/24 | Hampton Roads SQL Server User Group | [Exploring Optimized Locking](https://www.meetup.com/hampton-roads-sql-server-user-group/events/299153121/) | | [Download](https://github.com/airtank20/Presentations/blob/master/2024/Hampton%20Roads%20SSUG/)
 
 # Presentations - 2023
 Date | Event | Session | Recording | Files
