@@ -4,6 +4,7 @@ Presentations
 # Presentations - 2024
 Date | Event | Session | Recording | Files
 --- | --- | --- | --- | ---
+03/04/24 | Lexington Data Technology User Group | [Exploring Optimized Locking](https://www.meetup.com/lexington-data-technology-group/events/299440172/) | | [Download](https://github.com/airtank20/Presentations/blob/master/2024/Lexington%20Data%20Technology/)
 02/21/24 | Hampton Roads SQL Server User Group | [Exploring Optimized Locking](https://www.meetup.com/hampton-roads-sql-server-user-group/events/299153121/) | | [Download](https://github.com/airtank20/Presentations/blob/master/2024/Hampton%20Roads%20SSUG/)
 
 # Presentations - 2023
