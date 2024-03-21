@@ -4,6 +4,8 @@ Presentations
 # Presentations - 2024
 Date | Event | Session | Recording | Files
 --- | --- | --- | --- | ---
+03/21/24 | SQL Bits 2024 | [Azure Infrastructure - What Not to Do](https://sqlbits.com/attend/the-agenda/thusday/) | | [Download](https://github.com/airtank20/Presentations/blob/master/2024/SQLBits)
+03/21/24 | SQL Bits 2024 | [Soaring to New Heights with Accelerated Database Recovery](https://sqlbits.com/attend/the-agenda/thusday/) | | [Download](https://github.com/airtank20/Presentations/blob/master/2024/SQLBits)
 03/20/24 | SQL Bits 2024 | [Thwarting Disaster for SQL Server on Azure VM](https://sqlbits.com/attend/the-agenda/wednesday/) | | [Download](https://github.com/airtank20/Presentations/blob/master/2024/SQLBits)
 03/07/24 | Louisville Data Technology User Group | [Exploring Optimized Locking](https://www.meetup.com/louisville-data-technology-group/events/299058937/) | | [Download](https://github.com/airtank20/Presentations/blob/master/2024/Louisville%20Data%20Technology/)
 03/04/24 | Lexington Data Technology User Group | [Exploring Optimized Locking](https://www.meetup.com/lexington-data-technology-group/events/299440172/) | | [Download](https://github.com/airtank20/Presentations/blob/master/2024/Lexington%20Data%20Technology/)
