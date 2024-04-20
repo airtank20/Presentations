@@ -4,6 +4,7 @@ Presentations
 # Presentations - 2024
 Date | Event | Session | Recording | Files
 --- | --- | --- | --- | ---
+04/20/24 | SQL Saturday 1072 - Atlanta | [Accelerated Database Recovery – A Deep Dive Behind the Magic](https://sqlsaturday.com/2024-04-20-sqlsaturday1072/#schedule) | | [Download](https://github.com/airtank20/Presentations/blob/master/2024/SQLSaturday%20Atlanta)
 03/21/24 | SQL Bits 2024 | [Azure Infrastructure - What Not to Do](https://sqlbits.com/attend/the-agenda/thusday/) | | [Download](https://github.com/airtank20/Presentations/blob/master/2024/SQLBits)
 03/21/24 | SQL Bits 2024 | [Soaring to New Heights with Accelerated Database Recovery](https://sqlbits.com/attend/the-agenda/thusday/) | | [Download](https://github.com/airtank20/Presentations/blob/master/2024/SQLBits)
 03/20/24 | SQL Bits 2024 | [Thwarting Disaster for SQL Server on Azure VM](https://sqlbits.com/attend/the-agenda/wednesday/) | | [Download](https://github.com/airtank20/Presentations/blob/master/2024/SQLBits)
