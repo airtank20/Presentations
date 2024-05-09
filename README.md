@@ -5,9 +5,10 @@ Presentations
 Date | Event | Session | Recording | Files
 --- | --- | --- | --- | ---
 05/07/24 | Central Ohio Microsoft Data Platform User Group | [Exploring Optimized Locking](https://www.meetup.com/cbuspass/events/300771150/) | | [Download](https://github.com/airtank20/Presentations/blob/master/2024/Columbus%20SSUG)
-05/04/24 | Data Expose - MVP Edition | | [May the 4th be with you: Availability Sets and Zones for SQL Server on Azure VMs](https://www.youtube.com/watch?v=GvdE4quY_eQ)
+05/04/24 | Data Exposed - MVP Edition | | [May the 4th be with you: Availability Sets and Zones for SQL Server on Azure VMs](https://www.youtube.com/watch?v=GvdE4quY_eQ)
 04/20/24 | SQL Saturday 1072 - Atlanta | [Accelerated Database Recovery – A Deep Dive Behind the Magic](https://sqlsaturday.com/2024-04-20-sqlsaturday1072/#schedule) | | [Download](https://github.com/airtank20/Presentations/blob/master/2024/SQLSaturday%20Atlanta)
 03/21/24 | SQL Bits 2024 | [Azure Infrastructure - What Not to Do](https://sqlbits.com/attend/the-agenda/thusday/) | | [Download](https://github.com/airtank20/Presentations/blob/master/2024/SQLBits)
+03/26/24 | Data Exposed - MVP Edition | | [Introduction to Optimized Locking in Azure SQL Database](https://www.youtube.com/watch?v=9F3IciOIRZA)
 03/21/24 | SQL Bits 2024 | [Soaring to New Heights with Accelerated Database Recovery](https://sqlbits.com/attend/the-agenda/thusday/) | | [Download](https://github.com/airtank20/Presentations/blob/master/2024/SQLBits)
 03/20/24 | SQL Bits 2024 | [Thwarting Disaster for SQL Server on Azure VM](https://sqlbits.com/attend/the-agenda/wednesday/) | | [Download](https://github.com/airtank20/Presentations/blob/master/2024/SQLBits)
 03/07/24 | Louisville Data Technology User Group | [Exploring Optimized Locking](https://www.meetup.com/louisville-data-technology-group/events/299058937/) | | [Download](https://github.com/airtank20/Presentations/blob/master/2024/Louisville%20Data%20Technology/)
