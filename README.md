@@ -4,6 +4,7 @@ Presentations
 # Presentations - 2024
 Date | Event | Session | Recording | Files
 --- | --- | --- | --- | ---
+05/17/24 | Data Grillen | [Tales from the Field - How to Avoid Burnout](https://datagrillen.com/theschedule/#) | | [Download](https://github.com/airtank20/Presentations/blob/master/2024/Data%20Grillen) 
 05/07/24 | Central Ohio Microsoft Data Platform User Group | [Exploring Optimized Locking](https://www.meetup.com/cbuspass/events/300771150/) | | [Download](https://github.com/airtank20/Presentations/blob/master/2024/Columbus%20SSUG)
 05/04/24 | Data Exposed - MVP Edition | | [May the 4th be with you: Availability Sets and Zones for SQL Server on Azure VMs](https://www.youtube.com/watch?v=GvdE4quY_eQ)
 04/20/24 | SQL Saturday 1072 - Atlanta | [Accelerated Database Recovery – A Deep Dive Behind the Magic](https://sqlsaturday.com/2024-04-20-sqlsaturday1072/#schedule) | | [Download](https://github.com/airtank20/Presentations/blob/master/2024/SQLSaturday%20Atlanta)
