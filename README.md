@@ -4,6 +4,7 @@ Presentations
 # Presentations - 2024
 Date | Event | Session | Recording | Files
 --- | --- | --- | --- | ---
+11/07/24 | PASS Data Community Summit | [Mastering SQL Server’s Core: A Deep Dive into Internals](https://passdatacommunitysummit.com/sessions/1608) | | [Download](https://github.com/airtank20/Presentations/blob/master/2024/PASS%20Data%20Summit)
 10/01/24 | SQL Konferenz | [Thwarting Disaster for SQL Server on Azure VM](https://sqlkonferenz.de/agenda/#) | | [Download](https://github.com/airtank20/Presentations/blob/master/2024/SQLKonferenz)
 09/27/24 | Microsoft Fabcon Europe | [Accelerate Your Azure SQL Platform for Optimal Performance and Costs](https://www.sharepointeurope.com/events/accelerate-your-azure-sql-platform-for-optimal-performance-and-costs/) | | [Download](https://github.com/airtank20/Presentations/blob/master/2024/Fabcon%20Europe/)
 05/17/24 | Hampton Roads SQL Server User Group | [Tales from the Field - How to Avoid Burnout](https://www.meetup.com/hampton-roads-sql-server-user-group/events/301293560/) | | [Download](https://github.com/airtank20/Presentations/blob/master/2024/Hampton%20Roads%20SSUG/)
