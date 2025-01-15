@@ -1,6 +1,10 @@
 # Presentations
 Presentations
 
+# Presentations - 2025
+Date | Event | Session | Recording | Files
+--- | --- | --- | --- | ---
+01/15/25 | Hampton Roads SQL Server User Group | [Vectors in Azure SQL Database- Bringing AI to Your Data](https://www.meetup.com/hampton-roads-sql-server-user-group/events/305496289/) | | [Download](https://github.com/airtank20/Presentations/blob/master/2025/Hampton%20Roads%20SSUG/)
 # Presentations - 2024
 Date | Event | Session | Recording | Files
 --- | --- | --- | --- | ---
