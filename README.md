@@ -4,7 +4,11 @@ Presentations
 # Presentations - 2025
 Date | Event | Session | Recording | Files
 --- | --- | --- | --- | ---
+04/01/25 | Microsoft Fabcon 2025 - Las Vegas | [Azure SQL Database vs SQL Database in Fabric – Key Differences for Developers & DBAs](https://azuredataconf.com/#!/session/Azure%20SQL%20database%20vs.%20SQL%20database%20in%20Fabric:%20Key%20Differences%20for%20Developers%20and%20DBAs/7381) | | [Download](https://github.com/airtank20/Presentations/blob/master/2025/Fabcon%20Vegas%202025/)
+03/31/2025 | Microsoft Fabcon 23025 - Las Vegas | [Accelerate Your Azure SQL Platform for Optimal Performance and Costs](https://azuredataconf.com/#!/session/Accelerate%20Your%20Azure%20SQL%20Platform%20for%20Optimal%20Performance%20and%20Costs/7377) | | [Download](https://github.com/airtank20/Presentations/blob/master/2025/Fabcon%20Vegas%202025/)
 01/15/25 | Hampton Roads SQL Server User Group | [Vectors in Azure SQL Database- Bringing AI to Your Data](https://www.meetup.com/hampton-roads-sql-server-user-group/events/305496289/) | | [Download](https://github.com/airtank20/Presentations/blob/master/2025/Hampton%20Roads%20SSUG/)
+
+
 # Presentations - 2024
 Date | Event | Session | Recording | Files
 --- | --- | --- | --- | ---
