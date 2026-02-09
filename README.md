@@ -1,10 +1,10 @@
 # Presentations
 Presentations
 
-# Presentations - 2025
+# Presentations - 2026
 Date | Event | Session | Recording | Files
 --- | --- | --- | --- | ---
-02/09/2026 | Atlanta Azure Data User Group | [SQL Server 2025 Optimized Locking w/ John Morehouse & Monica Morehouse](https://www.meetup.com/atlanta-azure-data-user-group/events/313172875/?eventOrigin=group_upcoming_events) | | [Download](https://github.com/airtank20/Presentations/blob/master/2025/Atlanta Azure Data User Group/)
+02/09/2026 | Atlanta Azure Data User Group | [SQL Server 2025 Optimized Locking w/ John Morehouse & Monica Morehouse](https://www.meetup.com/atlanta-azure-data-user-group/events/313172875/?eventOrigin=group_upcoming_events) | | [Download](https://github.com/airtank20/Presentations/blob/master/2025/Atlanta%20Azure%20Data%20User%20Group/)
 
 
 
