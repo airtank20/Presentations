@@ -4,8 +4,10 @@ Presentations
 # Presentations - 2026
 Date | Event | Session | Recording | Files
 --- | --- | --- | --- | ---
-02/09/2026 | Atlanta Azure Data User Group | [SQL Server 2025 Optimized Locking w/ John Morehouse & Monica Morehouse](https://www.meetup.com/atlanta-azure-data-user-group/events/313172875/?eventOrigin=group_upcoming_events) | | [Download](https://github.com/airtank20/Presentations/tree/master/2026/Atlanta%20Azure%20Data%20User%20Group)
-1/21/2026 | M365 Con | [Accelerate Your Azure SQL Platform for Optimal Performance and Costs](https://2026.m365con.net/speakers/john-morehouse/) | | [Download](https://github.com/airtank20/Presentations/tree/master/2026/M365%20Con)
+05/04/26 | Data Exposed - MVP Edition | | [SQL Server Database Migration using Azure Arc Explained](https://www.youtube.com/watch?v=-tQFKpLPH_U)
+03/18/26 | Fabcon/SQLCon - Atlanta | Exploring Optimized Locking in SQL Server 2025| | [Download](https://github.com/airtank20/Presentations/tree/master/2026/FabCon-SQLCon-ATL)
+02/09/26 | Atlanta Azure Data User Group | [SQL Server 2025 Optimized Locking w/ John Morehouse & Monica Morehouse](https://www.meetup.com/atlanta-azure-data-user-group/events/313172875/?eventOrigin=group_upcoming_events) | | [Download](https://github.com/airtank20/Presentations/tree/master/2026/Atlanta%20Azure%20Data%20User%20Group)
+1/21/26 | M365 Con | [Accelerate Your Azure SQL Platform for Optimal Performance and Costs](https://2026.m365con.net/speakers/john-morehouse/) | | [Download](https://github.com/airtank20/Presentations/tree/master/2026/M365%20Con)
 
 
 # Presentations - 2025
