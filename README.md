@@ -4,7 +4,7 @@ Presentations
 # Presentations - 2026
 Date | Event | Session | Recording | Files
 --- | --- | --- | --- | ---
-05/21/26 | Data Grillen | [Better or Wurst For Your Workloads: Azure SQL vs. SQL in Fabric](https://datagrillen.com/theschedule/#)| | [Download](https://github.com/airtank20/Presentations/tree/master/2026/Data%20 Grillen)
+05/21/26 | Data Grillen | [Better or Wurst For Your Workloads: Azure SQL vs. SQL in Fabric](https://datagrillen.com/theschedule/#)| | [Download](https://github.com/airtank20/Presentations/tree/master/2026/Data%20Grillen)
 05/04/26 | Data Exposed - MVP Edition | | [SQL Server Database Migration using Azure Arc Explained](https://www.youtube.com/watch?v=-tQFKpLPH_U)
 04/15/26 | Hampton Roads SQL ServerUser Group | [Exploring Optimized Locking in SQL Server 2025 ](https://www.meetup.com/hampton-roads-sql-server-user-group/events/314074633/) | | [Download](https://github.com/airtank20/Presentations/tree/master/2026/Hampton%20Roads%20SSUG)
 03/19/26 | Fabcon/SQLCon - Atlanta | Azure SQL Database vs SQL Database in Fabric – Key Differences for Developers & DBAs| | [Download](https://github.com/airtank20/Presentations/tree/master/2026/Fabcon-SQLCon-ATL)
