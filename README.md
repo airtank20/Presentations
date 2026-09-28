@@ -4,10 +4,12 @@ Presentations
 # Presentations - 2026
 Date | Event | Session | Recording | Files
 --- | --- | --- | --- | ---
+09/30/26 | Fabcon/SQLCon - Barcenlona | Exploring Optimized Locking in SQL Server 2025 | | [Download](https://github.com/airtank20/Presentations/tree/master/2026/Fabcon-SQLCon-BCN)
+09/29/26 | Fabcon/SQLCon - Barcenlona | Azure SQL Database vs SQL Database in Fabric – Key Differences for Developers & DBAs| | [Download](https://github.com/airtank20/Presentations/tree/master/2026/Fabcon-SQLCon-BCN)
 08/20/26 | EightKB | [Accelerated Database Recovery - A Deep Dive Behind the Magic](https://eightkb.online)| [YouTube Recording](https://www.youtube.com/watch?v=XPhogTgDocc)| [Download](https://github.com/airtank20/Presentations/tree/master/2026/EightKB)
 05/21/26 | Data Grillen | [Better or Wurst For Your Workloads: Azure SQL vs. SQL in Fabric](https://datagrillen.com/theschedule/#)| | [Download](https://github.com/airtank20/Presentations/tree/master/2026/Data%20Grillen)
 05/04/26 | Data Exposed - MVP Edition | | [SQL Server Database Migration using Azure Arc Explained](https://www.youtube.com/watch?v=-tQFKpLPH_U)
-04/15/26 | Hampton Roads SQL ServerUser Group | [Exploring Optimized Locking in SQL Server 2025 ](https://www.meetup.com/hampton-roads-sql-server-user-group/events/314074633/) | | [Download](https://github.com/airtank20/Presentations/tree/master/2026/Hampton%20Roads%20SSUG)
+04/15/26 | Hampton Roads SQL ServerUser Group | [Exploring Optimized Locking in SQL Server 2025](https://www.meetup.com/hampton-roads-sql-server-user-group/events/314074633/) | | [Download](https://github.com/airtank20/Presentations/tree/master/2026/Hampton%20Roads%20SSUG)
 03/19/26 | Fabcon/SQLCon - Atlanta | Azure SQL Database vs SQL Database in Fabric – Key Differences for Developers & DBAs| | [Download](https://github.com/airtank20/Presentations/tree/master/2026/Fabcon-SQLCon-ATL)
 03/18/26 | Fabcon/SQLCon - Atlanta | Exploring Optimized Locking in SQL Server 2025| | [Download](https://github.com/airtank20/Presentations/tree/master/2026/Fabcon-SQLCon-ATL)
 02/09/26 | Atlanta Azure Data User Group | [SQL Server 2025 Optimized Locking w/ John Morehouse & Monica Morehouse](https://www.meetup.com/atlanta-azure-data-user-group/events/313172875/?eventOrigin=group_upcoming_events) | | [Download](https://github.com/airtank20/Presentations/tree/master/2026/Atlanta%20Azure%20Data%20User%20Group)
