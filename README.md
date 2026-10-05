@@ -4,8 +4,8 @@ Presentations
 # Presentations - 2026
 Date | Event | Session | Recording | Files
 --- | --- | --- | --- | ---
-09/30/26 | Fabcon/SQLCon - Barcenlona | Exploring Optimized Locking in SQL Server 2025 | | [Download](https://github.com/airtank20/Presentations/tree/master/2026/Fabcon-SQLCon-BCN)
-09/29/26 | Fabcon/SQLCon - Barcenlona | Azure SQL Database vs SQL Database in Fabric – Key Differences for Developers & DBAs| | [Download](https://github.com/airtank20/Presentations/tree/master/2026/Fabcon-SQLCon-BCN)
+09/30/26 | Fabcon/SQLCon - Barcenlona | Exploring Optimized Locking in SQL Server 2025 | | [Download](https://github.com/airtank20/Presentations/tree/master/2026/Fabcon-SQLcon-BCN)
+09/29/26 | Fabcon/SQLCon - Barcenlona | Azure SQL Database vs SQL Database in Fabric – Key Differences for Developers & DBAs| | [Download](https://github.com/airtank20/Presentations/tree/master/2026/Fabcon-SQLcon-BCN)
 08/20/26 | EightKB | [Accelerated Database Recovery - A Deep Dive Behind the Magic](https://eightkb.online)| [YouTube Recording](https://www.youtube.com/watch?v=XPhogTgDocc)| [Download](https://github.com/airtank20/Presentations/tree/master/2026/EightKB)
 05/21/26 | Data Grillen | [Better or Wurst For Your Workloads: Azure SQL vs. SQL in Fabric](https://datagrillen.com/theschedule/#)| | [Download](https://github.com/airtank20/Presentations/tree/master/2026/Data%20Grillen)
 05/04/26 | Data Exposed - MVP Edition | | [SQL Server Database Migration using Azure Arc Explained](https://www.youtube.com/watch?v=-tQFKpLPH_U)
