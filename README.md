@@ -4,7 +4,7 @@ Presentations
 # Presentations - 2026
 Date | Event | Session | Recording | Files
 --- | --- | --- | --- | ---
-10/24/26 | Day of Data - St Louis | Better or Worse For Your Workloads: Azure SQL vs. SQL in Fabric | | [Download](https://github.com/airtank20/Presentations'tre/master/2026/Day-of-Data-St-Louis)
+10/24/26 | Day of Data - St Louis | Better or Worse For Your Workloads: Azure SQL vs. SQL in Fabric | | [Download](https://github.com/airtank20/Presentations/tree/master/2026/Day-of-Data-St-Louis)
 09/30/26 | Fabcon/SQLCon - Barcenlona | Exploring Optimized Locking in SQL Server 2025 | | [Download](https://github.com/airtank20/Presentations/tree/master/2026/Fabcon-SQLcon-BCN)
 09/29/26 | Fabcon/SQLCon - Barcenlona | Azure SQL Database vs SQL Database in Fabric – Key Differences for Developers & DBAs| | [Download](https://github.com/airtank20/Presentations/tree/master/2026/Fabcon-SQLcon-BCN)
 08/20/26 | EightKB | [Accelerated Database Recovery - A Deep Dive Behind the Magic](https://eightkb.online)| [YouTube Recording](https://www.youtube.com/watch?v=XPhogTgDocc)| [Download](https://github.com/airtank20/Presentations/tree/master/2026/EightKB)
