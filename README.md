@@ -4,6 +4,7 @@ Presentations
 # Presentations - 2026
 Date | Event | Session | Recording | Files
 --- | --- | --- | --- | ---
+11/11/265 | Richmond SQL Server User Group | Exploring Optimized Locking in SQL Server 2025 | | [Download](https://github.com/airtank20/Presentations/tree/master/2026/Richmon-Sql-Server-UG)
 10/24/26 | Day of Data - St Louis | Better or Worse For Your Workloads: Azure SQL vs. SQL in Fabric | | [Download](https://github.com/airtank20/Presentations/tree/master/2026/Day-of-Data-St-Louis)
 09/30/26 | Fabcon/SQLCon - Barcenlona | Exploring Optimized Locking in SQL Server 2025 | | [Download](https://github.com/airtank20/Presentations/tree/master/2026/Fabcon-SQLcon-BCN)
 09/29/26 | Fabcon/SQLCon - Barcenlona | Azure SQL Database vs SQL Database in Fabric – Key Differences for Developers & DBAs| | [Download](https://github.com/airtank20/Presentations/tree/master/2026/Fabcon-SQLcon-BCN)
